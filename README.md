@@ -69,30 +69,7 @@ python mlplus_interpreter.py
 
 
 
-Documentation:
 
-	5.	Include Documentation:
-	•	Create comprehensive documentation within your repository. This should cover ML+ syntax, features, and any specific usage instructions. Consider using a tool like Sphinx to generate documentation.
-
-Example Programs:
-
-	6.	Include Examples:
-	•	Provide a few example ML+ programs that users can run to get a feel for the language. Include these in your repository.
-
-Community and Support:
-
-	7.	Establish a Community:
-	•	Encourage users to ask questions, report issues, and share their experiences. You can set up a discussion board, issues section, or a dedicated forum.
-
-Continuous Integration (Optional):
-
-	8.	CI/CD (Optional):
-	•	Implement Continuous Integration and Continuous Deployment (CI/CD) to automate testing and deployment processes. This ensures that updates and changes won’t break the functionality.
-
-Licensing:
-
-	9.	License Information:
-	•	Clearly state the license under which your ML+ language is released. This information is crucial for users who want to understand how they can use, modify, and share your work.
 ML+ (Master Language Plus) is a programming language designed to be part of the VaLangue Family of Languages. ML+ inherits its foundation from Python and aims to extend its capabilities for specific use cases. Let’s break down its key aspects:
 
 	1.	Purpose:
