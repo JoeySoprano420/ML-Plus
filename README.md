@@ -1,8 +1,6 @@
 # ML-Plus
 Python Derivative withitn the VaLangue Family of languages
-# ML-Plus
-Python Derivative withitn the VaLangue Family of languages
-ML+
+
 
 ML+ (Master Language Plus):
 
