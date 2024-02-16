@@ -1,4 +1,4 @@
-# ML-Plus
+# ML-Plus created by Joey Soprano of Violet Aura Creations at R.E.D. Labs
 Python Derivative withitn the VaLangue Family of languages
 
 
